@@ -14,6 +14,7 @@ A simple HTML and CSS project showcasing a card hover effect with profile images
 - CSS3
 
 ## 📸 Preview
+Demo Link : https://card-hover-effect.onrender.com <br> 
 Two example cards included:
 - 👨 Harsh Mishra — Software Engineer
 - 👩 Rachna Mishra — ML Engineer
@@ -21,22 +22,13 @@ Two example cards included:
 Each card displays a profile image, name, and job title.
 
 ## 📂 File Structure
-├── index.html     # Main HTML file with profile cards
-├── style.css      # CSS file with hover effect and styling
-├── male.jpg       # Profile image 1
-└── female.jpg     # Profile image 2
-
-## 🧑‍💻 Usage
-- Clone the repository or download the files.
-- Place your images in the same directory and update the <img src="..."> paths if needed.
-- Open index.html in your browser to view the hover effect in action.
-
-## 📝 Customization
-- You can add more cards by duplicating the <div class="card">...</div> block.
-- Modify style.css to change colors, animations, and layout.
+├── index.html     # Main HTML file with profile cards <br>
+├── style.css      # CSS file with hover effect and styling <br>
+├── male.jpg       # Profile image 1 <br>
+└── female.jpg     # Profile image 2 <br>
 
 ## 📬 Contact
-For questions or suggestions, feel free to reach out:
-Harsh Mishra
-📧 harshmishra8103@gmail.com
-🔗 https://github.com/erharshmishra 
+For questions or suggestions, feel free to reach out: <br>
+Harsh Mishra <br> 
+📧 harshmishra8103@gmail.com <br>
+🔗 https://github.com/erharshmishra <br> 
